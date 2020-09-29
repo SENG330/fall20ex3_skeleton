@@ -3,10 +3,9 @@ Please read thru the [overall exercises overview](https://github.com/SENG330/cou
 ## Exercise 3
 1. Building on the work from Ex2, correct the code based on the TA feedback. 
 2. Expand your code to show how we can:
-    1. search through a
- list of whale observations, and 
+    1. search through a list of whale observations, and 
     2. sort that list. 
-3. Implement two different strategies for searching and two different strategies for sorting. Cf. page 54. 
+3. Implement two different strategies for searching and two different strategies for sorting. Cf. text page 54. 
 4. Create a comparator (page 48) for whales. In your ADR document why the approach you chose is preferable over the
  other 2 approaches discussed in the book.
  3. Draw a Class diagram to show the structure of your solution. 
@@ -25,12 +24,12 @@ Please read thru the [overall exercises overview](https://github.com/SENG330/cou
 
 ### Deliverables
 
-* An ADR capturing the class diagram and explaining the rationale. 
+* An ADR capturing the class diagram and explaining the rationale. Your ADR should refer to concepts in Chapter 3.
 * Source code implementing the class diagram. Your source code must contain JUnit tests that show: 
     - a successful execution of the iterator and 
     - strategy patterns.
 Capture your important decisions in the ADR template.
 
 ## Due
-- We will mark the last commit made before **September 25 at 11:59pm**. If that last commit was a mess, let us know. Make sure your code compiles!
-- By midnight September 27, submit your team peer review form (link to follow). We will discuss the peer rating form in class.
+- We will mark the last commit made before **October 9 at 11:59pm**. If that last commit was a mess, let us know. Make sure your code compiles!
+- By midnight Oct 11, submit your team peer review form (link to follow). We will discuss the peer rating form in class.
