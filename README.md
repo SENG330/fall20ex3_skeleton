@@ -1,7 +1,7 @@
 Please read thru the [overall exercises overview](https://github.com/SENG330/course/blob/master/exercises/Exercises.md).
 
 ## Exercise 3
-1. Building on the work from Ex2, correct the code based on the TA feedback. Note: you do not need to amend the ADR or the diagram. 
+1. Building on the work from Ex2, correct the code based on the TA feedback. Note: you do not need to amend the ADR or the diagram. You will want to copy in your code from Ex2 to this repository.
 2. Expand your code to show how we can:
     1. search through a list of whale observations, and 
     2. sort that list. 
